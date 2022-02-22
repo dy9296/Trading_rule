@@ -1,0 +1,12 @@
+# Python Tools for Visual Studio Code
+__pycache__
+*.pyc
+
+# git functions in file
+git_related.ipynb
+
+# Data & Result Files (large memory)
+*.npy
+*.csv
+*.dat
+*.zip
